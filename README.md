@@ -14,3 +14,6 @@ This script performs a brute-force attack on a WiFi network using Aircrack-ng. I
 - A wireless interface that supports monitor mode.
 - Root privileges.
 
+## Scripts
+- wifisickter.sh ---> root requires
+- wifisickterwr.sh ---> no root requries
